@@ -7,5 +7,6 @@
 
 # and don't ignore files ending with the extensions below
 !*.md
-#!*.png
+!*.png
 !*.gitignore
+!CODEOWNERS
